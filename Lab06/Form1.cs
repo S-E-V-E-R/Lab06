@@ -12,7 +12,7 @@ using System.Collections;
 using System.Media; //для SystemSounds потрібно
 
 
-namespace Lab06
+namespace  Lab06
 {
     public partial class Form1 : Form
     {
